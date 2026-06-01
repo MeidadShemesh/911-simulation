@@ -74,4 +74,5 @@ This simulation models the lifecycle of emergency calls — from arrival, throug
 ## Authors
 
 Developed by Meidad Shemesh as a final project for the Advanced Programming Workshop course.
+
 Meidad Shemesh — [GitHub](https://github.com/MeidadShemesh) · [LinkedIn](https://www.linkedin.com/in/meidad-shemesh)

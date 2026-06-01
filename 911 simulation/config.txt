@@ -1,6 +1,0 @@
-dispatchers_count=10
-police_count=10
-ambulance_count=10
-firetruck_count=10
-max_sim_time=30.000000
-calls_timer=1.000000

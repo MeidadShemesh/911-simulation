@@ -84,3 +84,5 @@ make run    # build and run
 - C (C99), standard libraries only (`stdio`, `stdlib`, `math`, `time`)
 - Visual Studio / gcc
 - GitHub Actions for continuous build verification
+
+Meidad Shemesh — [GitHub](https://github.com/MeidadShemesh) · [LinkedIn](https://www.linkedin.com/in/meidad-shemesh)

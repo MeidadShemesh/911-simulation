@@ -85,4 +85,6 @@ make run    # build and run
 - Visual Studio / gcc
 - GitHub Actions for continuous build verification
 
+## Author
+
 Meidad Shemesh — [GitHub](https://github.com/MeidadShemesh) · [LinkedIn](https://www.linkedin.com/in/meidad-shemesh)
